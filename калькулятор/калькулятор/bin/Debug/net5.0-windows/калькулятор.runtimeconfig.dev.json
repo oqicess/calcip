@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\oqicess\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\oqicess\\.nuget\\packages"
+    ]
+  }
+}
